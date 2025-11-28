@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+#removing big daz_3d character
+/[Aa]ssets/Models/Daz_3d_Fabrice_male2_good.fbx
+/[Aa]ssets/Models/Daz_3d_Fabrice_male4_goodd.fbx

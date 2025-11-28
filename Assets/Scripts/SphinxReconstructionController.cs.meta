@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 49aee3dfbdeefdc4bb07d6b60ced559f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - reconstructButton: {instanceID: 0}
+  - speedSlider: {instanceID: 0}
+  - oldSphinx: {fileID: 919132149155446097, guid: 6daa24ef73e72d04eb8ba47f4641092f, type: 3}
+  - newSphinx: {fileID: 919132149155446097, guid: 010b74e74ae0044438a08155a0fa982f, type: 3}
+  - reconstructionAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
